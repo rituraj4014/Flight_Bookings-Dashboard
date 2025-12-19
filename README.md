@@ -98,6 +98,7 @@ Created calculated columns for analysis
 Optimized dataset for better performance
 
 🧠 DAX Measures Used (Examples)
+
 Total Bookings = COUNT(Bookings[Booking_ID])
 
 Total Ticket Price = SUM(Bookings[Ticket_Price])

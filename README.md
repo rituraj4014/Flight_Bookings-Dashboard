@@ -1,5 +1,6 @@
 # Flight_Bookings-Dashboard
 ✈️ Flight Booking & Travel Data Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project presents an end-to-end Flight Booking & Travel Data Analysis Dashboard built using Microsoft Power BI. The goal of the project is to analyze flight booking data and extract meaningful business insights related to ticket pricing, passenger demographics, airline performance, travel classes, payment methods, and travel distance.
